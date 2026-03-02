@@ -51,11 +51,7 @@ project-folder/
 │
 ├── main.py
 └── README.md
-📸 Screenshot (Optional)
 
-You can add a screenshot here:
-
-![App Screenshot](screenshot.png)
 🧠 What This Project Demonstrates
 
 Function definitions before usage
@@ -68,17 +64,6 @@ Safe deletion using discard() instead of remove()
 
 Basic state management
 
-📌 Future Improvements
-
-Save tasks to a file (persistent storage)
-
-Add task completion checkboxes
-
-Improve UI styling
-
-Sort tasks alphabetically
-
-Add timestamps
 
 📄 License
 
